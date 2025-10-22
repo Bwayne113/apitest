@@ -16,7 +16,7 @@ from io import BytesIO
 # -------------------------------
 # CONFIG
 # -------------------------------
-MODEL_ROOT = "/dbfs/models/dbcu_forecast/"  # Must match your save path
+MODEL_ROOT = "/Workspace/Modelling/Notmycode/Best_models"  # Must match your save path
 NEXT_RESERVATION_START = datetime(2025, 10, 28)
 RESERVATION_DAYS = 365
 DBU_COST_PER_UNIT = 1.0
